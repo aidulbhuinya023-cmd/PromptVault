@@ -1,0 +1,6 @@
+{
+  "name": "PromptVault - Private Organization Prompt Hub",
+  "description": "A private, self-hosted organization prompt library and community hub to collect, organize, benchmark, and share verified AI prompts with team-level access and company branding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
